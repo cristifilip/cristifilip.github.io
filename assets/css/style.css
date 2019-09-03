@@ -73,6 +73,7 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 }
 html {
   margin-right: 0 !important;
+  overflow-x: hidden !important;
 }
 
 footer, header, menu, nav, section {
@@ -84,7 +85,7 @@ body {
   min-width: 320px;
   line-height: 1.6;
   font-family: 'OpenSansRegular', sans-serif;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
