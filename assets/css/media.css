@@ -176,6 +176,13 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
+  .gallery_popup .mfp-arrow-right {
+    margin-right: -45%;
+  }
+
+  .gallery_popup .mfp-arrow-left {
+    margin-left: -45%;
+  }
   .sidebar_blog_padding {
     padding-top: 0;
   }
@@ -496,9 +503,21 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 640px) {
+  .gallery_portfolio .filter li a {
+    font-size: 1.2rem;
+  }
+
   .shop_sorting .dropdown-menu,
   .reviews_content .dropdown-menu {
     margin: 10px -91px 10px 0;
+  }
+
+  .gallery_popup .mfp-arrow-right {
+    top: 55%;
+  }
+
+  .gallery_popup .mfp-arrow-left {
+    top: 55%;
   }
 
   .shop_nav {

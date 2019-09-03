@@ -71,6 +71,9 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
   padding: 0;
   border: 0;
 }
+html {
+  margin-right: 0 !important;
+}
 
 footer, header, menu, nav, section {
   display: block;
@@ -7911,7 +7914,8 @@ background-color: #b069c4;
 .gallery_portfolio .filter li a {
 	font-size: 1.8rem;
 	font-family: 'OpenSansSemiBold', sans-serif;
-	font-weight: 400;
+  font-weight: 400;
+  cursor: pointer;
 }
 
 .gallery_portfolio .portfolio-lead .gallery_description p span {
@@ -8088,7 +8092,7 @@ font-family: FontAwesome;
 }
 
 .mfp-zoom-out-cur, .mfp-zoom-out-cur .mfp-image-holder .mfp-close {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 /* 16. Reviews Page -----------------------*/
