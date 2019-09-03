@@ -4785,7 +4785,7 @@ background-color: #fff;
 
 .events_one_top p span,
 .date_events_left p span{
-	font-size: 6.4rem;
+	font-size: 4.4rem;
 }
 
 .events_one_top p,
@@ -4869,7 +4869,7 @@ background-color: #fff;
 .date_events_right {
     margin-left: 33%;
     padding: 22px 80px 22px 30px;
-    min-height: 120px;
+    min-height: 100px;
 }
 
 /* triple grids */
@@ -4901,7 +4901,8 @@ background-color: #fff;
 	position: absolute;
 	top: 50%;
 	margin-top: -50px;
-	width: 100%;
+  width: 100%;
+  padding-top: 10px;
 }
 
 /* 7. Single Event ------------------------*/
