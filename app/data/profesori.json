@@ -1,0 +1,34 @@
+{
+  "profesori": [
+    {
+      "nume": "Cristian Boariu",
+      "post": "Studiu Biblic",
+      "imagine": "profesor-3.jpg"
+    },
+    {
+      "nume": "Adriana Popescu",
+      "post": "Educatoare",
+      "imagine": "profesor-2.jpg"
+    },
+    {
+      "nume": "Cornel Matache",
+      "post": "Activitati sportive",
+      "imagine": "profesor-1.jpg"
+    },
+    {
+      "nume": "Ioana Ardelean",
+      "post": "Desen & arte plastice",
+      "imagine": "profesor-4.jpg"
+    },
+    {
+      "nume": "Mihai Tudorescu",
+      "post": "Jocuri",
+      "imagine": "profesor-1.jpg"
+    },
+    {
+      "nume": "Geta Enache",
+      "post": "Educatoare",
+      "imagine": "profesor-4.jpg"
+    }
+  ]
+}

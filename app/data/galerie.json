@@ -1,0 +1,112 @@
+{
+  "galerie": [
+    {
+      "imagine": "prezentare1.jpg",
+      "titlu": "Sala Grupei Mici",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare2.jpg",
+      "titlu": "Biroul invatatoarei",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare3.jpg",
+      "titlu": "Sala de activitati",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare4.jpg",
+      "titlu": "Sala principala",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare5.jpg",
+      "titlu": "O sala a gradinitei noastre",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare6.jpg",
+      "titlu": "Gradinita Sion",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare7.jpg",
+      "titlu": "Gradinita Sion",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare8.jpg",
+      "titlu": "Gradinita Sion",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare9.jpg",
+      "titlu": "Spatii de depozitare",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare10.jpg",
+      "titlu": "Holul de la intrare",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "prezentare11.jpg",
+      "titlu": "Holul de la intrare",
+      "categorie": "Prezentare"
+    },
+    {
+      "imagine": "serbare1.jpg",
+      "titlu": "Serbare Grupa Mare",
+      "descriere": "Copiii din Grupa Mare au serbat terminarea anului scolar 2019 printr-un grupaj de cantari.",
+      "categorie": "Serbări"
+    },
+    {
+      "imagine": "serbare2.jpg",
+      "titlu": "Serbare Grupa Mijlocie",
+      "descriere": "Grupa mijlocie de Sărbătoarea Crăciunului.",
+      "categorie": "Serbări"
+    },
+    {
+      "imagine": "activitati1.jpg",
+      "titlu": "Colorăm împreună",
+      "descriere": "Copiii din Grupa Mare au serbat terminarea anului scolar 2019 printr-un grupaj de cantari.",
+      "categorie": "Activități artistice"
+    },
+    {
+      "imagine": "activitati2.jpg",
+      "titlu": "Desen si voie bună",
+      "descriere": "Grupa mijlocie de Sărbătoarea Crăciunului.",
+      "categorie": "Activități artistice"
+    },
+    {
+      "imagine": "activitati1.jpg",
+      "titlu": "Colorăm împreună",
+      "descriere": "Copiii din Grupa Mare au serbat terminarea anului scolar 2019 printr-un grupaj de cantari.",
+      "categorie": "Activități artistice"
+    },
+    {
+      "imagine": "studiu1.jpg",
+      "titlu": "Învățăm",
+      "descriere": "Copiii din Grupa Mare învățând versetul de aur.",
+      "categorie": "Studiu biblic"
+    },
+    {
+      "imagine": "studiu2.jpg",
+      "titlu": "Ascultăm întâmplări din Biblie",
+      "descriere": "Grupa mijlocie învățând despre Iona.",
+      "categorie": "Studiu biblic"
+    },
+    {
+      "imagine": "sport1.jpg",
+      "titlu": "Să facem mișare",
+      "descriere": "Copiii din Grupa Mare jucânduse în curtea Grădăniței Sion.",
+      "categorie": "Activități sportive"
+    },
+    {
+      "imagine": "sport2.jpg",
+      "titlu": "Mișcare și voie bună",
+      "categorie": "Activități sportive"
+    }
+  ]
+}

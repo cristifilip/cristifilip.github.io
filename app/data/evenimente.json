@@ -1,0 +1,25 @@
+{
+  "evenimente": [
+    {
+      "titlu": "Iesire la iarba verde",
+      "descriere": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "locatie": "Buzias, Timis",
+      "data": "2019-10-04T12:00",
+      "imagine": "evenimente-3.jpg"
+    },
+    {
+      "titlu": "Serbare",
+      "descriere": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "locatie": "Gradinita Sion Deva",
+      "data": "2019-09-10T16:30",
+      "imagine": "evenimente-2.jpg"
+    },
+    {
+      "titlu": "Jocuri in aer liber",
+      "descriere": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "locatie": "Gradinita Sion Deva",
+      "data": "2019-08-13T14:00",
+      "imagine": "evenimente-1.jpg"
+    }
+  ]
+}
